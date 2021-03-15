@@ -12,6 +12,7 @@ Collection of personal recommendation about Genshin Impact game
 - [Japanese Genshin Impact YouTube Channel](https://www.youtube.com/channel/UCAVR6Q0YgYa8xwz8rdg9Mrg)
 - [Takagg YouTube Channel](https://www.youtube.com/c/takagg/about)
 - [Genshin Impact's Seiyuu interview with English Subtitle](https://www.youtube.com/playlist?list=PLhNKH9DbPsvi1xRIR1YlYTMbZqvAm-6qX)
+- [Genshin Impact X.EXE by Rawfler](https://www.youtube.com/playlist?list=PLhSVeMuazf7b_qmboeCSk9SqFznTSnaSH)
 
 ### Sites
 
