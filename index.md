@@ -13,6 +13,8 @@ Collection of personal recommendation about Genshin Impact game
 - [Takagg YouTube Channel](https://www.youtube.com/c/takagg/about)
 - [Genshin Impact's Seiyuu interview with English Subtitle](https://www.youtube.com/playlist?list=PLhNKH9DbPsvi1xRIR1YlYTMbZqvAm-6qX)
 - [Genshin Impact X.EXE by Rawfler](https://www.youtube.com/playlist?list=PLhSVeMuazf7b_qmboeCSk9SqFznTSnaSH)
+- [Dedicated Traveler as main DPS by Zelle](https://www.youtube.com/c/11zelle)
+- [How to secure your Genshin Impact Account by Tier Talis](https://www.youtube.com/watch?v=lTbbWlTYrck)
 
 ### Sites
 
