@@ -27,14 +27,18 @@ Personal recommendation and tips about Genshin Impact game
 
 ### Resin
 
-1 resin = 8 minutes
-20 resin = 160 minutes a.k.a 2 hours 40 minutes
-40 resin = 320 minutes a.k.a 5 hours 20 minutes
-160 resin = 1280 minutes a.k.a 21 hours 20 minutes
+1 Resin = 8 minutes
+20 Resin = 160 minutes a.k.a 2 hours 40 minutes
+40 Resin = 320 minutes a.k.a 5 hours 20 minutes
+160 Resin = 1280 minutes a.k.a 21 hours 20 minutes
+
+**Condensed Resin**
+
+1 Condensed Resin = 40 Resin + 1 Crystal Core (Anemo Crystal Fly, Geo Crystal Fly, Cryo Crystal Fly)
 
 **Refill Resin with Primogem**
 
-Each refill get 60 resin.
+You can refill Resin maximum 5 times per day. Each refill get 60 Resin.
 
 | Primogem |
 |---------:|
@@ -44,9 +48,9 @@ Each refill get 60 resin.
 |      150 |
 |      200 |
 
-**My tips: Use maximum 250 primogem per day (for sake of your money) if you really want to refill resin so bad!**
+**My tips: Use maximum 250 primogem per day (for sake of your money) if you really want to refill Resin so bad!**
 
-**Use resin with the priorities below:**
+**Use Resin with the priorities below:**
 
 1. Farming bosses material for leveling up character
 2. Farming talent book for leveling up character talent
