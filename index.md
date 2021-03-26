@@ -27,10 +27,12 @@ Personal recommendation and tips about Genshin Impact game
 
 ### Resin
 
-1 Resin = 8 minutes
-20 Resin = 160 minutes a.k.a 2 hours 40 minutes
-40 Resin = 320 minutes a.k.a 5 hours 20 minutes
-160 Resin = 1280 minutes a.k.a 21 hours 20 minutes
+| Resin | Minutes | Hours Minutes       |
+|------:|--------:|---------------------|
+|     1 |       8 | -                   |
+|    20 |     160 | 2 hours 40 minutes  |
+|    40 |     320 | 5 hours 20 minutes  |
+|   160 |    1280 | 21 hours 20 minutes |
 
 **Condensed Resin**
 
