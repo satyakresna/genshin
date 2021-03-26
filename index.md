@@ -1,5 +1,5 @@
 # Genshin
-Collection of personal recommendation about Genshin Impact game
+Personal recommendation and tips about Genshin Impact game
 
 ## Collection
 
@@ -22,3 +22,37 @@ Collection of personal recommendation about Genshin Impact game
 - [genshin.gg](https://genshin.gg)
 - [Genshin Honey Hunterworld](https://genshin.honeyhunterworld.com/db/char/characters/)
 - [Previous Gacha Banner](https://www.gensh.in/events/gacha-banners)
+
+## Tips
+
+### Resin
+
+1 resin = 8 minutes
+20 resin = 160 minutes a.k.a 2 hours 40 minutes
+40 resin = 320 minutes a.k.a 5 hours 20 minutes
+160 resin = 1280 minutes a.k.a 21 hours 20 minutes
+
+**Refill Resin with Primogem**
+
+Each refill get 60 resin.
+
+| Primogem |
+|---------:|
+|       50 |
+|      100 |
+|      100 |
+|      150 |
+|      200 |
+
+**My tips: Use maximum 250 primogem per day (for sake of your money) if you really want to refill resin so bad!**
+
+**Use resin with the priorities below:**
+
+1. Farming bosses material for leveling up character
+2. Farming talent book for leveling up character talent
+3. Farming artifact
+
+### Characters Level Up
+
+For DPS: Level up to 80 - 90
+For sub DPS: Ascension Phase 4th (60/70) to get second passive combat talent
