@@ -55,4 +55,5 @@ Each refill get 60 resin.
 ### Characters Level Up
 
 For DPS: Level up to 80 - 90
+
 For sub DPS: Ascension Phase 4th (60/70) to get second passive combat talent
