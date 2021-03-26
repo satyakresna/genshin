@@ -1,3 +1,3 @@
 # genshin
 
-Collection of personal recommendation about Genshin Impact game
+Personal recommendation and tips about Genshin Impact game
